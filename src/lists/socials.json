@@ -1,0 +1,50 @@
+[
+    {
+        "full_name": "Twitch",
+        "slug": "Twitch",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://www.twitch.tv/gabasc"
+    },
+    {
+        "full_name": "Steam",
+        "slug": "Steam",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://steamcommunity.com/id/gabagsc/"
+    },
+    {
+        "full_name": "Twitter",
+        "slug": "Twitter",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://twitter.com/gsoarescosta"
+    },
+    {
+        "full_name": "Spotify",
+        "slug": "Spotify",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://open.spotify.com/user/gsoarescosta"
+    },
+    {
+        "full_name": "Linkedin",
+        "slug": "Linkedin",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://www.linkedin.com/in/gsoarescosta/"
+    },
+    {
+        "full_name": "Youtube",
+        "slug": "Youtube",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://www.youtube.com/user/GSCplays/videos"
+    },
+    {
+        "full_name": "GitHub",
+        "slug": "GitHub",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://github.com/gsoarescosta"
+    },
+    {
+        "full_name": "Origin",
+        "slug": "Origin",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-static/404_boxart-300x400.jpg",
+        "link": "https://answers.ea.com/t5/user/viewprofilepage/user-id/23314300"
+    }
+]

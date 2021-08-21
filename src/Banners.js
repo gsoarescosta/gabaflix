@@ -1,13 +1,24 @@
+let games_list = require('./lists/games.json');
+let socials_list = require('./lists/socials.json');
+
+export default {
+    getHomeList: async () => {
+        return [
+            {
+                slug: 'socials',
+                title: 'Redes Sociais',
+                items: socials_list
+            },
+            {
+                slug: 'games',
+                title: 'Jogos em Live',
+                items: games_list
+            }
+        ]
+    }
+}
+
 /*
-- redes sociais
-    - twitch
-    - twitter
-    - spotify
-    - linkedin
-    - youtube
-    - github
-    - steam
-    - origin
 - jogos
     - cs:go
     - rocket league
@@ -21,24 +32,3 @@
     - valorant ?
     - genshin impact ?
 */
-/*
-- jogos
-    - name
-    - img
-*/
-export default {
-    getHomeList: async () => {
-        return [
-            {
-                slug: 'socials',
-                title: 'Redes Sociais',
-                items: []
-            },
-            {
-                slug: 'games',
-                title: 'Jogos em Live',
-                items: []
-            }
-        ]
-    }
-}

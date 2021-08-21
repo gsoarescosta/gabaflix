@@ -1,0 +1,20 @@
+[
+    {
+        "full_name": "Counter-Strike: Global Offensive",
+        "slug": "CS:GO",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-300x400.jpg",
+        "link": "https://blog.counter-strike.net/"
+    },
+    {
+        "full_name": "Grand Chase",
+        "slug": "GC",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Chase-300x400.jpg",
+        "link": "https://store.steampowered.com/app/985810/GrandChase/"
+    },
+    {
+        "full_name": "Ragnarök Online - NovaRO",
+        "slug": "NovaRO",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Ragnarok%20Online-300x400.jpg",
+        "link": "https://www.novaragnarok.com/"
+    }
+]
