@@ -1,0 +1,25 @@
+.bannerRow {
+    margin-bottom: 30px;
+}
+.bannerRow h2 {
+    margin: 0px 0px 0px 30px;
+}
+.bannerRow--listarea {
+    overflow-x: hidden;
+    padding-left: 30px;
+}
+.bannerRow--list {
+    width: 99999999px;
+}
+.bannerRow--item {
+    display: inline-block;
+    width: 150px;
+}
+.bannerRow--item img {
+    width: 100%;
+    transform: scale(0.9);
+    transition: all ease 0.2s;
+}
+.bannerRow--item img:hover {
+    transform: scale(1);
+}

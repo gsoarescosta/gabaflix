@@ -17,18 +17,3 @@ export default {
         ]
     }
 }
-
-/*
-- jogos
-    - cs:go
-    - rocket league
-    - ragnarok (novaRO)
-    - grand chase
-    - fifa
-    - nba2k ?
-    - tribes of midgard
-    - fall guys
-    - overwatch ?
-    - valorant ?
-    - genshin impact ?
-*/
