@@ -1,20 +1,74 @@
 [
     {
         "full_name": "Counter-Strike: Global Offensive",
-        "slug": "CS:GO",
+        "slug": "csgo",
         "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Counter-Strike:%20Global%20Offensive-300x400.jpg",
-        "link": "https://blog.counter-strike.net/"
+        "link": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
     },
     {
         "full_name": "Grand Chase",
-        "slug": "GC",
+        "slug": "grandchase",
         "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Chase-300x400.jpg",
         "link": "https://store.steampowered.com/app/985810/GrandChase/"
     },
     {
         "full_name": "Ragnarök Online - NovaRO",
-        "slug": "NovaRO",
+        "slug": "novaro",
         "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Ragnarok%20Online-300x400.jpg",
         "link": "https://www.novaragnarok.com/"
+    },
+    {
+        "full_name": "FIFA 21",
+        "slug": "fifa21",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2021-300x400.jpg",
+        "link": "https://www.origin.com/bra/pt-br/store/fifa/fifa-21"
+    },
+    {
+        "full_name": "Tribes of Midgard",
+        "slug": "tribes",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Tribes%20of%20Midgard-300x400.jpg",
+        "link": "https://store.steampowered.com/app/858820/Tribes_of_Midgard/"
+    },
+    {
+        "full_name": "Fall Guys",
+        "slug": "fallguys",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Fall%20Guys:%20Ultimate%20Knockout-300x400.jpg",
+        "link": "https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/"
+    },
+    {
+        "full_name": "NBA 2K21",
+        "slug": "nba2k21",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K21-300x400.jpg",
+        "link": "https://www.epicgames.com/store/en-US/p/nba-2k21"
+    },
+    {
+        "full_name": "Rocket League",
+        "slug": "rocketleague",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Rocket%20League-300x400.jpg",
+        "link": "https://store.steampowered.com/app/252950/Rocket_League/"
+    },
+    {
+        "full_name": "Valorant",
+        "slug": "valorant",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Valorant-300x400.jpg",
+        "link": "https://playvalorant.com/pt-br/"
+    },
+    {
+        "full_name": "Genshin Impact",
+        "slug": "genshin",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Genshin%20Impact-300x400.jpg",
+        "link": "https://genshin.mihoyo.com/pt/"
+    },
+    {
+        "full_name": "Overwatch",
+        "slug": "overwatch",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-300x400.jpg",
+        "link": "https://playoverwatch.com/pt-br/"
+    },
+    {
+        "full_name": "Stardew Valley",
+        "slug": "stardew",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-300x400.jpg",
+        "link": "https://store.steampowered.com/app/413150/Stardew_Valley/"
     }
 ]
