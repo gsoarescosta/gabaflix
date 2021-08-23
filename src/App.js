@@ -21,7 +21,7 @@ export default () => {
   return (
     <div className='page'>
       {/* HEADER */}
-      <h1>Gabaflix</h1>
+      {/* <h1>Gabaflix</h1> */}
       {/* FEATURED AREA */}
       <FeaturedArea />
       {/* LISTS */}
