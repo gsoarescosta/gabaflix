@@ -70,5 +70,29 @@
         "slug": "stardew",
         "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-300x400.jpg",
         "link": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+    },
+    {
+        "full_name": "Ciência e Tecnologia",
+        "slug": "science",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Science%20&%20Technology-300x400.jpg",
+        "link": "https://www.twitch.tv/directory/game/Science%20%26%20Technology"
+    },
+    {
+        "full_name": "Motorsport Manager",
+        "slug": "motorsport",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Science%20&%20Technology-300x400.jpg",
+        "link": "https://store.steampowered.com/app/415200/Motorsport_Manager/"
+    },
+    {
+        "full_name": "Brawl Stars",
+        "slug": "brawlstars",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Brawl%20Stars-300x400.jpg",
+        "link": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=pt_BR&gl=US"
+    },
+    {
+        "full_name": "Hammerwatch",
+        "slug": "hammerwatch",
+        "image_path" : "https://static-cdn.jtvnw.net/ttv-boxart/Hammerwatch-300x400.jpg",
+        "link": "https://store.steampowered.com/app/239070/Hammerwatch/"
     }
 ]

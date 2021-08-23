@@ -58,5 +58,23 @@
         "slug": "gamersclub",
         "image_path" : "../socials/gamersclub.png",
         "link": "https://gamersclub.com.br/player/56727"
+    },
+    {
+        "full_name": "TV Time",
+        "slug": "tvtime",
+        "image_path" : "../socials/tvtime.png",
+        "link": "https://www.tvtime.com/en/user/10086228/profile"
+    },
+    {
+        "full_name": "Instagram",
+        "slug": "instagram",
+        "image_path" : "../socials/instagram.png",
+        "link": "https://www.instagram.com/gsoarescosta/"
+    },
+    {
+        "full_name": "TikTok do Bigo",
+        "slug": "tiktok",
+        "image_path" : "../socials/tiktok.png",
+        "link": "https://www.tiktok.com/@obeaglebigo"
     }
 ]

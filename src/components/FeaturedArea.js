@@ -6,7 +6,7 @@ export default () => {
         <section className='featured'>
             <div className="featured--vertical">
                 <div className="featured--horizontal">
-                    <div className="featured--name">TITLE</div>
+                    <div className="featured--name">I am GabaSC</div>
                     <div className="featured--info">
                         <div className="featured--score">Nota G+</div>
                         <div className="featured--year">1995</div>
@@ -15,7 +15,10 @@ export default () => {
                     <div className="featured--description">
                         E aí, tudo bom?
                         Meu nome é Gabriel, também sou conhecido como Gaba, tenho 26 anos e sou fissurado em <i>games</i>.
-                        blablablabalbla alblabl ablalb al bal lba blal.
+                        blablablabalbla alblabl ablalb al bal lba blal. 
+                        E aí, tudo bom?
+                        Meu nome é Gabriel, também sou conhecido como Gaba, tenho 26 anos e sou fissurado em <i>games</i>.
+                        blablablabalbla alblabl ablalb al bal lba blal. 
                     </div>
                     <div className="featured--buttons">
                         <a href="https://twitch.tv/gabasc" className="featured--watchbutton">► Assistir</a>

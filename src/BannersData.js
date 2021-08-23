@@ -11,7 +11,7 @@ export default {
             },
             {
                 slug: 'games',
-                title: 'Jogos em Live',
+                title: 'Categorias em Live',
                 items: games_list
             }
         ]
