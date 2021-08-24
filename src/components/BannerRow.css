@@ -9,7 +9,8 @@
     padding-left: 30px;
 }
 .bannerRow--list {
-    width: 99999999px;
+    /* width: 99999999px; */
+    transition: all ease 0.4s;
 }
 .bannerRow--item {
     display: inline-block;
@@ -22,4 +23,35 @@
 }
 .bannerRow--item img:hover {
     transform: scale(1);
+}
+.bannerRow--left,
+.bannerRow--right {
+    position:absolute;   
+    width: 40px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.45);
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0;
+    transition : all ease 0.25s;
+}
+.bannerRow--left{
+    left: 0;
+}
+.bannerRow--right{
+    right: 0;
+}
+.bannerRow:hover .bannerRow--left,
+.bannerRow:hover .bannerRow--right{
+    opacity: 1;
+}
+@media (max-width: 760px){
+    .bannerRow--left,
+    .bannerRow--right {
+    opacity: 1;
+    }
 }

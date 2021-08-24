@@ -5,14 +5,14 @@ export default {
     getHomeList: async () => {
         return [
             {
-                slug: 'socials',
-                title: 'Redes Sociais',
-                items: socials_list
-            },
-            {
                 slug: 'games',
                 title: 'Categorias em Live',
                 items: games_list
+            },
+            {
+                slug: 'socials',
+                title: 'Redes Sociais',
+                items: socials_list
             }
         ]
     }
