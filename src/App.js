@@ -51,7 +51,8 @@ export default () => {
       <footer>
         Feito em <a href="https://reactjs.org/">React</a> - baseado no tutorial de <a href="https://www.youtube.com/watch?v=tBweoUiMsDg">Bonieky</a><br/>
         Imagens dos jogos obtidas através do site da <a href="https://www.twitch.tv/directory">Twitch</a><br/>
-        Projeto disponível <a href="https://github.com/gsoarescosta/gabaflix">nesse repositório</a> público
+        Projeto disponível <a href="https://github.com/gsoarescosta/gabaflix">nesse repositório</a> público<br/>
+        <span role="img" aria-label="lobo">🐺</span>
       </footer>
     </div>
   )
