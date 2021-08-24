@@ -12,12 +12,6 @@
         "link": "https://steamcommunity.com/id/gabagsc/"
     },
     {
-        "full_name": "Twitter",
-        "slug": "twitter",
-        "image_path" : "../socials/twitter.png",
-        "link": "https://twitter.com/gsoarescosta"
-    },
-    {
         "full_name": "Spotify",
         "slug": "spotify",
         "image_path" : "../socials/spotify.png",
@@ -36,34 +30,22 @@
         "link": "https://www.linkedin.com/in/gsoarescosta/"
     },
     {
-        "full_name": "Youtube",
-        "slug": "youtube",
-        "image_path" : "../socials/youtube.png",
-        "link": "https://www.youtube.com/user/GSCplays/videos"
-    },
-    {
         "full_name": "GitHub",
         "slug": "github",
         "image_path" : "../socials/github.png",
         "link": "https://github.com/gsoarescosta"
     },
     {
-        "full_name": "Origin",
-        "slug": "origin",
-        "image_path" : "../socials/origin.png",
-        "link": "https://answers.ea.com/t5/user/viewprofilepage/user-id/23314300"
-    },
-    {
-        "full_name": "Gamers Club",
-        "slug": "gamersclub",
-        "image_path" : "../socials/gamersclub.png",
-        "link": "https://gamersclub.com.br/player/56727"
-    },
-    {
         "full_name": "TV Time",
         "slug": "tvtime",
         "image_path" : "../socials/tvtime.png",
         "link": "https://www.tvtime.com/en/user/10086228/profile"
+    },
+    {
+        "full_name": "Twitter",
+        "slug": "twitter",
+        "image_path" : "../socials/twitter.png",
+        "link": "https://twitter.com/gsoarescosta"
     },
     {
         "full_name": "Instagram",
@@ -76,5 +58,23 @@
         "slug": "tiktok",
         "image_path" : "../socials/tiktok.png",
         "link": "https://www.tiktok.com/@obeaglebigo"
+    },
+    {
+        "full_name": "Gamers Club",
+        "slug": "gamersclub",
+        "image_path" : "../socials/gamersclub.png",
+        "link": "https://gamersclub.com.br/player/56727"
+    },
+    {
+        "full_name": "Youtube",
+        "slug": "youtube",
+        "image_path" : "../socials/youtube.png",
+        "link": "https://www.youtube.com/user/GSCplays/videos"
+    },
+    {
+        "full_name": "Origin",
+        "slug": "origin",
+        "image_path" : "../socials/origin.png",
+        "link": "https://answers.ea.com/t5/user/viewprofilepage/user-id/23314300"
     }
 ]
