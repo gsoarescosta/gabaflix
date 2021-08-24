@@ -10,8 +10,8 @@ export default ({black}) => {
                 </a>
             </div>
             <div className="header--user">
-                <a href="/">
-                    <img src="../wolfuserimg.png" alt="Wolf User"></img>
+                <a href="https://github.com/gsoarescosta">
+                    <img src="../user.png" alt="User"></img>
                 </a>
             </div>
         </header>
