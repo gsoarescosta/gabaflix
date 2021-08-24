@@ -21,8 +21,8 @@ export default () => {
                         blablablabalbla alblabl ablalb al bal lba blal. 
                     </div>
                     <div className="featured--buttons">
-                        <a href="https://twitch.tv/gabasc" className="featured--watchbutton">► Assistir</a>
-                        <a href="https://www.tvtime.com/en/user/10086228/profile" className="featured--mylistbutton">+ Minha Lista</a>
+                        <a href="https://twitch.tv/gabasc" className="featured--watchbutton" title="Assistir ao vivo">► Assistir</a>
+                        <a href="https://www.tvtime.com/en/user/10086228/profile" className="featured--mylistbutton" title="Minha lista de filmes e séries">+ Minha Lista</a>
                     </div>
                     <div className="featured--genres">Categorias: <strong> Programação, Jogos, Filmes e Séries </strong></div>
                 </div>
