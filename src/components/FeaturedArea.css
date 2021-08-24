@@ -16,9 +16,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-left: 30px;
+    /* padding-left: 30px;
     padding-bottom: 150px;
-    padding-top : 70px;
+    padding-top : 70px; */
+    padding: 70px 0px 150px 30px;
 }
 .featured--name{
     font-size: 60px;
@@ -50,9 +51,9 @@
 .featured--mylistbutton,
 .featured--watchbutton{
     display: inline-block;
-    font-size:20px;
+    font-size: 20px;
     font-weight: bold;
-    padding:  12px 25px;
+    padding: 12px 25px;
     border-radius: 5px;
     text-decoration: none;
     margin-right: 10px;
