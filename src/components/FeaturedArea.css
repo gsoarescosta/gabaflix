@@ -21,6 +21,18 @@
     padding-top : 70px; */
     padding: 70px 0px 150px 30px;
 }
+.featured--container {
+    margin: auto;
+    padding: 10px;
+}  
+.featured--left{
+    width: 50%;
+    float: left;
+}
+.featured--right{
+    margin-left: 52%;
+    margin-top: 15px;
+}
 .featured--name{
     font-size: 60px;
     font-weight: bold;
@@ -40,10 +52,10 @@
     color: #46d369
 }
 .featured--description{
-    margin-top:15px;
+    margin-top: 15px;
     font-size: 20px;
     color: #999;
-    max-width: 40%;
+    max-width: 90%;
 }
 .featured--buttons{
     margin-top:15px;
@@ -77,7 +89,7 @@
     font-size: 18px;
     color: #999;
 }
-@media (max-width:760px){
+@media (max-width:768px){
     .featured{
         height: 90vh;
     }
@@ -98,5 +110,11 @@
     }
     .featured--genres{
         font-size: 14px;        
+    }
+    .featured--left{
+        width: 90%;
+    }
+    .featured--right{
+        display: none;
     }
 }
