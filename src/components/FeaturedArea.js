@@ -3,7 +3,7 @@ import './FeaturedArea.css';
 
 var years = new Date(new Date() - new Date("1995/04/11")).getFullYear() - 1970;
 var twitchChannel = "gabasc";
-var website = "gabaflix-gabasc.vercel.app"; // localhost for tests
+var website = "gabaflix-gabasc.vercel.app&gabaflix-gsoarescosta.vercel.app&gabaflix-git-main-gsoarescosta.vercel.app"; // multiple vercel urls for tests - use localhost for local tests
 
 const featuredArea = () => {
   return (
