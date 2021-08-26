@@ -2,6 +2,8 @@ import React from 'react';
 import './FeaturedArea.css';
 
 var years = new Date(new Date() - new Date("1995/04/11")).getFullYear() - 1970;
+var twitchChannel = "gabasc";
+var website = "localhost";
 
 export default () => {
     return (
@@ -29,7 +31,7 @@ export default () => {
                             <div className="featured--genres">Categorias: <strong> Programação, Jogos, Filmes e Séries </strong></div>
                         </div>
                         <div className="featured--right">
-                            <iframe src="https://player.twitch.tv/?channel=gabasc&parent=localhost" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" title="Twitch Player"></iframe>
+                            <iframe src={`https://player.twitch.tv/?channel=${twitchChannel}&parent=${website}`} frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" title="Twitch Player"></iframe>
                         </div>
                     </div>
                 </div>
