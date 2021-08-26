@@ -1,58 +1,58 @@
 .bannerRow {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .bannerRow h2 {
-    margin: 0px 0px 0px 30px;
+  margin: 0px 0px 0px 30px;
 }
 .bannerRow--listarea {
-    overflow-x: hidden;
-    padding-left: 30px;
+  overflow-x: hidden;
+  padding-left: 30px;
 }
 .bannerRow--list {
-    /* width: 99999999px; */
-    transition: all ease 0.4s;
+  /* width: 99999999px; */
+  transition: all ease 0.4s;
 }
 .bannerRow--item {
-    display: inline-block;
-    width: 150px;
+  display: inline-block;
+  width: 150px;
 }
 .bannerRow--item img {
-    width: 100%;
-    transform: scale(0.9);
-    transition: all ease 0.2s;
+  width: 100%;
+  transform: scale(0.9);
+  transition: all ease 0.2s;
 }
 .bannerRow--item img:hover {
-    transform: scale(1);
+  transform: scale(1);
 }
 .bannerRow--left,
 .bannerRow--right {
-    position:absolute;   
-    width: 40px;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.45);
-    z-index: 99;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    cursor: pointer;
-    opacity: 0;
-    transition : all ease 0.25s;
+  position:absolute;   
+  width: 40px;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.45);
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  cursor: pointer;
+  opacity: 0;
+  transition : all ease 0.25s;
 }
 .bannerRow--left{
-    left: 0;
+  left: 0;
 }
 .bannerRow--right{
-    right: 0;
+  right: 0;
 }
 .bannerRow:hover .bannerRow--left,
 .bannerRow:hover .bannerRow--right{
-    opacity: 1;
+  opacity: 1;
 }
 
 @media (max-width: 1024px){
-    .bannerRow--left,
-    .bannerRow--right {
-    opacity: 1;
-    }
+  .bannerRow--left,
+  .bannerRow--right {
+  opacity: 1;
+  }
 }
