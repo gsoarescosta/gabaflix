@@ -3,7 +3,7 @@ import './BannerRow.css';
 import NavigateBeforeIcon from '@material-ui/icons/NavigateBefore';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 
-export default ({title, items}) => {
+export default function BannerRow({title, items}){
   // shuffleArray(items); // Shows banners in a random order - not working the way I wanted
   const [scrollX, setScrollX] = useState(0);
 
@@ -51,9 +51,9 @@ export default ({title, items}) => {
   )
 }
 
-function shuffleArray(array) { // Durstenfeld shuffle => https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-}
+// function shuffleArray(array) { // Durstenfeld shuffle => https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+//   for (let i = array.length - 1; i > 0; i--) {
+//     const j = Math.floor(Math.random() * (i + 1));
+//     [array[i], array[j]] = [array[j], array[i]];
+//   }
+// }

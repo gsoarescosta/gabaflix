@@ -5,7 +5,7 @@ var years = new Date(new Date() - new Date("1995/04/11")).getFullYear() - 1970;
 var twitchChannel = "gabasc";
 var website = "localhost";
 
-export default () => {
+const featuredArea = () => {
   return (
     <section className='featured'>
       <div className="featured--vertical">
@@ -39,3 +39,5 @@ export default () => {
     </section>
   )
 }
+
+export default featuredArea;
