@@ -23,7 +23,6 @@
 }
 .featured--container {
     margin: auto;
-    padding: 10px;
 }  
 .featured--left{
     width: 50%;
@@ -31,7 +30,7 @@
 }
 .featured--right{
     margin-left: 52%;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 .featured--name{
     font-size: 60px;
@@ -58,7 +57,7 @@
     max-width: 90%;
 }
 .featured--buttons{
-    margin-top:15px;
+    margin-top: 15px;
 }
 .featured--mylistbutton,
 .featured--watchbutton{
@@ -70,7 +69,7 @@
     text-decoration: none;
     margin-right: 10px;
     opacity: 1;
-    transition :all ease 0.2s;
+    transition: all ease 0.2s;
 }
 .featured--mylistbutton:hover,
 .featured--watchbutton:hover{
@@ -89,7 +88,8 @@
     font-size: 18px;
     color: #999;
 }
-@media (max-width:768px){
+
+@media (max-width: 1024px){
     .featured{
         height: 90vh;
     }
@@ -117,4 +117,10 @@
     .featured--right{
         display: none;
     }
+}
+
+@media (max-height: 450px){
+    .featured--container {
+        margin-top: 100px;
+    }  
 }

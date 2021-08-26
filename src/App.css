@@ -30,3 +30,9 @@ footer a {
     color: #004AAD;
     text-decoration: none;
 }
+
+@media (max-height: 450px){
+    .lists {
+        margin-top: 10px;
+    }  
+}
